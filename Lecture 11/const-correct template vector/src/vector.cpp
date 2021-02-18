@@ -1,5 +1,7 @@
 #include <iostream>
 
+#include "vector.h"
+
 using namespace mycollection;
 // using namespace std;
 
